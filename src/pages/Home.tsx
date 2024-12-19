@@ -16,9 +16,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-white">
           <h1 className="text-5xl md:text-6xl font-bold mb-4">Discover Your Next Adventure</h1>
           <p className="text-xl md:text-2xl mb-8">Experience the thrill of mountain trekking with expert guides</p>
-          <a href="/tours" className="bg-blue-600 hover:bg-blue-700 text-white px-8 py-3 rounded-lg inline-flex items-center">
-            Explore Tours <ArrowRight className="ml-2" />
-          </a>
+         
         </div>
       </section>
 
